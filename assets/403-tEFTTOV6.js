@@ -1,0 +1,1 @@
+import{E as e}from"./error-page-CBapFgR9.js";import{d as o,c as r,o as a}from"./index-C7nMLzyl.js";const _=o({__name:"403",setup(c){return(t,s)=>(a(),r(e,{code:403,desc:"您无权访问此页面"}))}});export{_ as default};
