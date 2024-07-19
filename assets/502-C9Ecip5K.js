@@ -1,0 +1,1 @@
+import{E as e}from"./error-page-Cy3EQaLc.js";import{d as o,c as r,o as a}from"./index-DPw4sp0l.js";const _=o({__name:"502",setup(c){return(t,s)=>(a(),r(e,{code:502,desc:"马上回来"}))}});export{_ as default};
