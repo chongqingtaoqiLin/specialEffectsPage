@@ -1,0 +1,1 @@
+import{E as e}from"./error-page-B-csF0I6.js";import{d as o,c as r,o as a}from"./index-CD-WXRuV.js";const _=o({__name:"500",setup(c){return(t,s)=>(a(),r(e,{code:500,desc:"糟糕，出了点问题"}))}});export{_ as default};
